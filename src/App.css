@@ -1,0 +1,10 @@
+@import '../node_modules/@syncfusion/ej2-react-diagrams/styles/material.css';
+
+.container {
+    margin-left: 11%;
+    margin-top: 5%;
+    .button{
+        width: 100px;
+        height: 100px;
+    }
+}
