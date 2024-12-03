@@ -1,5 +1,5 @@
 # Explore Node Types in the React Diagram
-A quick-start project that shows types of nodes and node shapes in the Syncfusion React Diagram Component. The node types, such as HTML, text, image, SVG, and path data, are explained. You’ll also see the basic, flow, UML, and BPMN node types with their own sets of built-in shapes. 
+A quick-start project that shows types of nodes and node shapes in the Syncfusion&reg; React Diagram Component. The node types, such as HTML, text, image, SVG, and path data, are explained. You’ll also see the basic, flow, UML, and BPMN node types with their own sets of built-in shapes. 
 
 The React Diagram is a feature-rich library for creating, visualizing, and editing interactive diagrams. It lets users create flowcharts, organizational charts, mind maps, and BPMN charts through code or a visual interface.
 
